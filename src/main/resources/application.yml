@@ -1,0 +1,5 @@
+app:
+  notification:
+    enabled-channels: email,sms
+    rate-limit: 150
+    default-sender: system@notification.com
